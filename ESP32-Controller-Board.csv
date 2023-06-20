@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R5,R1,R10,R2,R11,R9,R6,R4,R12,R8,R7,R3";"R_0805_2012Metric";12;"1K";;;
+2;"D1,D9,D10,D3,D11,D2,D12,D4";"LED_0805_2012Metric";8;"LED";;;
+3;"Q1,Q2,Q3,Q4";"TO-92_Inline";4;"BC547";;;
+4;"D8,D5,D7,D6";"D_DO-41_SOD81_P10.16mm_Horizontal";4;"1N4007";;;
+5;"J5,J6,J3,J4";"TerminalBlock_Altech_AK300-3_P5.00mm";4;"Screw_Terminal_01x03";;;
+6;"J2,J1";"PinSocket_1x15_P2.54mm_Vertical";2;"Conn_01x15_Pin";;;
+7;"K3,K2,K1,K4";"Relay_SPDT_Finder_36.11";4;"FINDER-36.11";;;
