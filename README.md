@@ -2,13 +2,13 @@
 
 ![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board.png)
 
-(https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_1.png)
+![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_1.png)
 
-(https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_2.png)
+![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_2.png)
 
-(https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_3.png)
+![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_3.png)
 
-(https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_4.png)
+![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_4.png)
 
 Objectives of the Project:
 
