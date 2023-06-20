@@ -1,5 +1,14 @@
 # ESP32-Controller-Board
 
+Componets:
+ESP32-esp32s
+4x relays (12v),
+4x 1n4007 diodes,
+4x BC547 transistors,
+4x 3 pin 5mm terminal blocks,
+12x grain 0805 1K SMD resistor,
+8x 0805 SMD Red LEDs
+
 Objectives of the Project:
 
 Building a simple relay control circuit using an ESP32 microcontroller.
