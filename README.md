@@ -1,15 +1,5 @@
 # ESP32-Controller-Board
 
-![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board.png)
-
-![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_1.png)
-
-![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_2.png)
-
-![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_3.png)
-
-![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_4.PNG)
-
 Objectives of the Project:
 
 Building a simple relay control circuit using an ESP32 microcontroller.
@@ -104,3 +94,5 @@ When using the project, it is important to consider the safety precautions.
 It is important that you use a strong password and user authentication method to access the ESP32's web server.
 You should also make sure that the power supply and electrical connections are safe and sound.
 When using the project for remote access, it is recommended to use a secure network and firewall to minimize security vulnerabilities.
+
+![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board.png)
