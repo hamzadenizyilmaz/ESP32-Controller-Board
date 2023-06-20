@@ -1,6 +1,6 @@
 # ESP32-Controller-Board
 
-(https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board.png)
+![alt text](https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board.png)
 
 (https://github.com/hamzadenizyilmaz/ESP32-Controller-Board/blob/main/ESP32-Controller-Board_1.png)
 
